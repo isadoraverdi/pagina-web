@@ -3,7 +3,11 @@ body{
     font-family: Grenze;
 }
 header{
-    font-size: 40px;
+    font-size: 50px;
+    padding: center;
+    text-align: center;
+    margin: auto;
+    border-bottom:dashed;
 }
 h1{
     font-weight:300;
