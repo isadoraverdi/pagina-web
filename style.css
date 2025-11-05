@@ -13,7 +13,7 @@ header{
     box-sizing: border-box;
 }
 h1{
-    font-weight:300;
+    font-weight:300; 
     margin: 0px;
 }
 .top1{
@@ -21,4 +21,5 @@ h1{
     background-color: aliceblue;
     text-align: center;
     padding: 20px;
+    padding-bottom: 40px;
 }
