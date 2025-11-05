@@ -1,14 +1,24 @@
 body{
-    background-color:lavender;
+    background-color:black;
     font-family: Grenze;
 }
 header{
     font-size: 50px;
+    background-color: black;
+    color: white;
     padding: center;
     text-align: center;
-    margin: auto;
     border-bottom:dashed;
+    margin: 0;
+    box-sizing: border-box;
 }
 h1{
     font-weight:300;
+    margin: 0px;
+}
+.top1{
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+    padding: 20px;
 }
